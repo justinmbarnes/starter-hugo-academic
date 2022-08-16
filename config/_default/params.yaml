@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/justinmbarnes/starter-hugo-academic'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: master
   avatar:
@@ -103,8 +103,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-#  ai:
-#    enable: true
 
 # Security
 
