@@ -27,7 +27,7 @@ content:
       link:
         #icon: graduation-cap
         #icon_pack: fas
-        text: Or click for more about me (and my cute family)
+        text: Click for more about me
         url:  'bio/'
     - title: 
       content: ''
