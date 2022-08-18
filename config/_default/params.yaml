@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
@@ -103,6 +103,10 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+icon:
+  pack:
+    ai: true
 
 # Security
 

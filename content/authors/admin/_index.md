@@ -18,14 +18,18 @@ bio: I am interested in social and public policies and study their impacts on ac
 
 # Interests to show in About widget
 interests:
-  - Radiation Oncology
   - Health and Public Policy
+  - Achieving Equity in Cancer Outcomes
+  - Radiation Oncology
   - Quasi-experimental methods
   - Statistical inference
 
 # Education to show in About widget
 education:
   courses:
+    - course: Residency, Radiation Oncology
+      institution: Washington University in St. Louis
+      year: 2025
     - course: MD
       institution: Saint Louis University
       year: 2020
@@ -47,8 +51,17 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Barnes_J_M
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/AAV-8785-2020/
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57203039984
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-2812-0824
+  - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai #fas
     link: https://scholar.google.com/citations?user=5mSezw4AAAAJ
   - icon: github
     icon_pack: fab
@@ -56,6 +69,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -71,6 +85,6 @@ email: 'justinbarnes@wustl.edu'
 highlight_name: true
 ---
 
-Justin Barnes is a radiation oncologist (in training) at Washington University School of Medicine in St. Louis and Barnes Jewish Hospital. His research interests include the impacts of social and public policies on cancer outcomes, particularly insurance-related policies for nonelderly adults. He is an active member of ASCO and ASTRO and is currently a member of the ASTRO Congressional Relations Subcomittee.
+Justin Barnes is a radiation oncologist (in training) at Washington University School of Medicine in St. Louis and Barnes Jewish Hospital. He enjoys getting to know and working with patients with any type of cancer and their families. His research interests include the impacts of social and public policies on cancer outcomes, particularly insurance-related policies for nonelderly adults. He is an active member of ASCO and ASTRO and is currently serving as a member of the ASTRO Congressional Relations Subcomittee.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

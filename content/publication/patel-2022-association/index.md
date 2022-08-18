@@ -23,6 +23,8 @@ lastmod: 2022-08-16T20:38:36-05:00
 featured: true
 draft: false
 
+#<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1001/jamanetworkopen.2022.17228" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -42,4 +44,13 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*JAMA network open*'
+
+add_badge: true
+
+
 ---
+<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-doi="10.1001/jamanetworkopen.2022.17228"></div>
+<html>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+</html>
+
