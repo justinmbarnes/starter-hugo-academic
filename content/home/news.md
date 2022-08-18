@@ -15,11 +15,11 @@ design:
 
 content:
   slides:
-    - title: Welcome!
-      content: Slide for recent media & news coverage
+    - title: 
+      content: Welcome! Slide for recent media & news coverage
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: coders.jpg
