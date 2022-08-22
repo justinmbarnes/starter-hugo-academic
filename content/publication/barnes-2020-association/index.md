@@ -16,7 +16,10 @@ date: '2020-01-01'
 lastmod: 2022-08-16T20:33:45-05:00
 featured: true
 draft: false
-
+links:
+- name: PubMed
+  url: 'https://pubmed.ncbi.nlm.nih.gov/32202616/'
+  
 # <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1001/jamapediatrics.2020.0052" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 

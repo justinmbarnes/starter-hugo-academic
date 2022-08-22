@@ -53,7 +53,7 @@ social:
     link: https://twitter.com/Barnes_J_M
   - icon: publons
     icon_pack: ai
-    link: https://publons.com/researcher/AAV-8785-2020/
+    link: https://www.webofscience.com/wos/author/record/8679
   - icon: scopus
     icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=57203039984
@@ -85,6 +85,6 @@ email: 'justinbarnes@wustl.edu'
 highlight_name: true
 ---
 
-Justin Barnes is a radiation oncologist (in training) at Washington University School of Medicine in St. Louis and Barnes Jewish Hospital. He enjoys getting to know and working with patients with any type of cancer and their families. His research interests include the impacts of social and public policies on cancer outcomes, particularly insurance-related policies for nonelderly adults. He is an active member of ASCO and ASTRO and is currently serving as a member of the ASTRO Congressional Relations Subcomittee.
+Justin Barnes is a radiation oncologist-in-training at Washington University School of Medicine in St. Louis and Barnes Jewish Hospital. He enjoys getting to know and working with patients with any type of cancer and their families. His research interests include the impacts of social and public policies on cancer outcomes, particularly insurance-related policies for nonelderly adults. He is an active member of ASCO and ASTRO and is currently serving as a member of the ASTRO Congressional Relations Subcomittee.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

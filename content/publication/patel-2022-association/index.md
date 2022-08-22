@@ -22,7 +22,10 @@ date: '2022-01-01'
 lastmod: 2022-08-16T20:38:36-05:00
 featured: true
 draft: false
-
+links:
+- name: PubMed Full Text
+  url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9201676/'
+  
 #<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1001/jamanetworkopen.2022.17228" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 # Featured image

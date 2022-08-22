@@ -23,7 +23,10 @@ date: '2018-01-01'
 lastmod: 2022-08-16T20:33:44-05:00
 featured: false
 draft: false
-
+links:
+- name: PubMed Full Text
+  url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089177/'
+  
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

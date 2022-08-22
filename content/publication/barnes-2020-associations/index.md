@@ -16,7 +16,10 @@ date: '2020-01-01'
 lastmod: 2022-08-16T20:33:45-05:00
 featured: false
 draft: false
-
+links:
+- name: PubMed
+  url: 'https://pubmed.ncbi.nlm.nih.gov/31634633/'
+  
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
