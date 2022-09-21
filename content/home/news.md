@@ -172,10 +172,4 @@ content:
 
 
 
-
-#   #HealthDay
-#  #MedicalXpress
-#      #Medscape
-
-
 ---

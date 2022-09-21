@@ -38,7 +38,7 @@ experience:
     #company_logo: org-gc
     location: Missouri
     date_start: '2020-07-01'
-    date_end: ''
+    date_end: '2021-06-25'
 #    description: |2-
  #       Responsibilities include:
 
