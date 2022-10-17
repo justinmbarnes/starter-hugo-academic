@@ -6,8 +6,8 @@ title: Human papillomavirus vaccination and trends in cervical cancer incidence 
 subtitle: ''
 summary: ''
 authors:
-- Tara Tabibi
 - Justin M Barnes
+- Tara Tabibi
 - Aneri Shah
 - Nosayaba Osazuwa-Peters
 - Kimberly J Johnson

@@ -134,13 +134,13 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: dailynews.jpg
+        media: ascopostvideo.jpg
         fit: contain
       link:
         icon: 
         icon_pack: 
         text: Read More
-        url: https://dailynews.ascopubs.org/do/10.1200/ADN.22.200935/full/
+        url: https://ascopost.com/videos/2022-asco-quality-care-symposium/justin-barnes-on-medicaid-expansion-and-changes-in-cancer-mortality-rates/
     - title: 
       content: ''
       align: left
@@ -162,14 +162,13 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: astro22travel.jpg
         fit: contain
       link:
         icon: 
         icon_pack: 
         text: Read More
-        url: https://www.healio.com/news/hematology-oncology/20220526/racial-disparities-in-cancer-survival-shrink-with-increased-public-welfare-spending
-
+        url: https://www.astro.org/Meetings-and-Education/Micro-Sites/2022/Annual-Meeting/Learn/Abstracts/Abstract-Awards
 
 
 ---

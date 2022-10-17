@@ -6,8 +6,8 @@ title: Association of state medicaid expansion status with rates of suicide amon
 subtitle: ''
 summary: ''
 authors:
-- Hetal Patel
 - Justin Barnes
+- Hetal Patel
 - Nosayaba Osazuwa-Peters
 - Laura Jean Bierut
 
