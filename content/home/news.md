@@ -120,6 +120,20 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
+        media: cta.jpg
+        fit: contain
+      link:
+        icon: 
+        icon_pack: 
+        text: Read More
+        url: https://www.cancertherapyadvisor.com/home/cancer-topics/general-oncology/medicaid-expansion-decrease-distant-stage-cancer-diagnoses-deaths/
+    - title: 
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
         media: medscape.jpg
         fit: contain
       link:
@@ -148,13 +162,13 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: xpress.jpg
+        media: xpress2.jpg
         fit: contain
       link:
         icon: 
         icon_pack: 
         text: Read More
-        url: https://medicalxpress.com/news/2021-07-cancer-death-declined-steeply-states.html 
+        url: https://medicalxpress.com/news/2023-02-medicaid-expansion-childhood-cancer-survival.html
     - title: 
       content: ''
       align: left

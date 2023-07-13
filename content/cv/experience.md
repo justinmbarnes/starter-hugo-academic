@@ -21,6 +21,20 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
+experience:
+  - title: Assistant Chief Resident
+    company: Washington University / Barnes Jewish Hospital
+    company_url: ''
+    company_logo: wustl
+    location: Missouri
+    date_start: '2023-07-01'
+    date_end: ''
+#    description: |2-
+ #       Responsibilities include:
+
+
 experience:
   - title: Resident, Radiation Oncology
     company: Washington University / Barnes Jewish Hospital

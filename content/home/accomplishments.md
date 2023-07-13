@@ -48,6 +48,14 @@ item:
     #organization_url: https://www.coursera.org
     title: Travel Award
     url: ''
+  - #certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2023-06-01'
+    description: 'ASCO Annual Meeting'
+    organization: ASCO and Conquer Cancer
+    #organization_url: https://www.coursera.org
+    title: Merit Award
+    url: ''
 
 design:
   columns: '2'

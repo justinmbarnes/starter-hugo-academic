@@ -11,7 +11,7 @@ comments: false
 superuser: true
 
 # Role/position/tagline
-role: Radiation Oncology Resident
+role: Assistant Chief Resident (PGY-4), Radiation Oncology
 
 # Organizations/Affiliations to show in About widget
 organizations:
